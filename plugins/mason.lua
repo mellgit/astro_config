@@ -12,8 +12,8 @@ return {
         "pyright",
         "jsonls",
         "clangd",
-        "gopls"
-
+        "gopls",
+        "nginx-language-server"
       })
     end,
   },
