@@ -13,7 +13,7 @@ return {
         "jsonls",
         "clangd",
         "gopls",
-        "nginx-language-server"
+        -- "nginx-language-server"
       })
     end,
   },
